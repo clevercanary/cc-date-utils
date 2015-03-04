@@ -1,0 +1,23 @@
+{
+  "name": "cc-date-utils",
+  "version": "1.0.0",
+  "description": "date utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clevercanary/cc-date-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clevercanary/cc-date-utils/issues"
+  },
+  "homepage": "https://github.com/clevercanary/cc-date-utils",
+  "dependencies": {
+    "moment-timezone": "^0.3.0"
+  },
+  "devDependencies": {}
+}
